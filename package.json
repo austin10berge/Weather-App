@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Testing API calls and asynchronous code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austin10berge/Weather-App.git"
+  },
+  "author": "Austin TenBerge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austin10berge/Weather-App/issues"
+  },
+  "homepage": "https://github.com/austin10berge/Weather-App#readme",
+  "devDependencies": {
+    "development": "^0.0.1",
+    "webpack": "^5.64.2",
+    "webpack-cli": "^4.9.1"
+  }
+}

@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+}
+
+.nav {
+    background-color: rgba(7, 7, 92, 0.315);
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu { /* UL within nav */
+    list-style: none;
+    display: flex;
+    height: 45px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    gap: 4em;
+    background-color: rgba(7, 7, 92, 0.315);
+    padding-top: 10px;
+    margin: 0px;
+    font-size: larger;
+    
+}
+
+ul > li {
+    cursor: pointer;
+}
+
+#content {
+    max-width: 820px;
+    padding: 55px;
+    margin: 0 auto;
+}
+
+   
